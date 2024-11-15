@@ -34,5 +34,5 @@ We need to prepare three files, located in the same directory:
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color4.png" alt="Alt text" width="1200">
 -
 -
-<img src="https://github.com/wqiudao/AF2Color/blob/main/img/legend.png" alt="Alt text" width="300">
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/legend.png" alt="Alt text" width="600">
 
