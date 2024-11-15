@@ -19,6 +19,5 @@ af2color json_file
 https://golgi.sandbox.google.com/
 
 
-![Alt text](https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png)
 
-<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="400" height="300">
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="800" height="600">
