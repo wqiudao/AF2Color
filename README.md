@@ -20,7 +20,7 @@ We need to prepare three files, located in the same directory:
 -
 
 # install & run
-
+1. Open PyMOL, and in the command line, enter the code to load the `af2color` function.
 <pre> run af2color_local.py  </pre>
 
 
