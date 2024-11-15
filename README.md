@@ -20,4 +20,4 @@ https://golgi.sandbox.google.com/
 
 
 
-<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="800" height="600">
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="800">
