@@ -8,12 +8,12 @@ Parameters:
 
 The JSON file is located in PyMOL's current working directory; otherwise, the full path is required.
 
-color_atoms_by_plddt json_file
+af2color json_file
 
 """
 
 
-def color_atoms_by_plddt(json_file):
+def af2color(json_file):
 
 	with open(json_file, 'r') as f:
 		data = json.load(f)
@@ -34,8 +34,7 @@ def color_atoms_by_plddt(json_file):
 			color_name = "phosphorus"
 		atom_selection = f"id {atom.index}"
 		cmd.color(color_name, atom_selection)
-cmd.extend("color_atoms_by_plddt", color_atoms_by_plddt)
-
+cmd.extend("af2color", af2color)
 
 
 
