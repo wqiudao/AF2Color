@@ -18,7 +18,7 @@ https://golgi.sandbox.google.com/
 
 
 
-<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2_data.png" alt="Alt text" width="800" style="width: 50%; border: 2px solid black;">
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2_data.png" alt="Alt text" width="800" style="border: 10px solid black;">
 
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="800">
 
