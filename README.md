@@ -10,3 +10,7 @@ The JSON file is located in PyMOL's current working directory; otherwise, the fu
 color_atoms_by_plddt json_file
 
 """
+
+
+# install
+run https://github.com/wqiudao/AF2Color/blob/main/af2color_local.py
