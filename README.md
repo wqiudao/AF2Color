@@ -33,4 +33,6 @@ We need to prepare three files, located in the same directory:
 -
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color4.png" alt="Alt text" width="800">
 -
+-
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/legend.png" alt="Alt text" width="600">
 
