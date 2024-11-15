@@ -12,18 +12,26 @@ af2color json_file
 """
 
 
-# install & run
-
-
-
-`run af2color_local.py`
-
+# Data Preparation
 
 https://golgi.sandbox.google.com/
 
 
 
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2_data.png" alt="Alt text" width="800">
+
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color.png" alt="Alt text" width="800">
+
+
+# install & run
+`run af2color_local.py`
+
+
+
+
+
+
+
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color1.png" alt="Alt text" width="800">
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color2.png" alt="Alt text" width="800">
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color3.png" alt="Alt text" width="800">
