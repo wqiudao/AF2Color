@@ -13,4 +13,4 @@ color_atoms_by_plddt json_file
 
 
 # install
-run https://github.com/wqiudao/AF2Color/blob/main/af2color_local.py
+`run https://github.com/wqiudao/AF2Color/blob/main/af2color_local.py`
