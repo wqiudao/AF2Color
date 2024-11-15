@@ -22,14 +22,15 @@ We need to prepare three files, located in the same directory:
 # install & run
 1. Open PyMOL, and in the command line, enter the code to load the `af2color` function.
 <pre> run af2color_local.py  </pre>
-
-
-
-
-
+2. Color feature.
+<pre> af2color fold_5xwp_full_data_0.json  </pre>
+-
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color1.png" alt="Alt text" width="800">
+-
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color2.png" alt="Alt text" width="800">
+-
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color3.png" alt="Alt text" width="800">
+-
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color4.png" alt="Alt text" width="800">
-
+-
 
