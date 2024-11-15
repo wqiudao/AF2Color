@@ -20,9 +20,8 @@ We need to prepare three files, located in the same directory:
 -
 
 # install & run
-`run af2color_local.py`
 
-
+<pre> run af2color_local.py  </pre>
 
 
 
