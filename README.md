@@ -12,7 +12,10 @@ af2color json_file
 """
 
 
-# install
+# install & run
+
+
+
 `run af2color_local.py`
 
 
