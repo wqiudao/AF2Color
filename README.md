@@ -25,7 +25,7 @@ We need to prepare three files, located in the same directory:
 2. Color structures.
 <pre> af2color fold_5xwp_full_data_0.json  </pre>
 -
-<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color1.png" alt="Alt text" width="800">
+<img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color1.png" alt="Alt text" width="1200">
 -
 <img src="https://github.com/wqiudao/AF2Color/blob/main/img/af2color2.png" alt="Alt text" width="800">
 -
