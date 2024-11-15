@@ -7,7 +7,7 @@ Parameters:
 
 The JSON file is located in PyMOL's current working directory; otherwise, the full path is required.
 
-color_atoms_by_plddt json_file
+af2color json_file
 
 """
 
