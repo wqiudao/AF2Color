@@ -6,7 +6,7 @@ Parameters:
 
 The JSON file is located in PyMOL's current working directory; otherwise, the full path is required.
 
-`af2color json_file`
+```af2color json_file```
 
 
 # Data Preparation
